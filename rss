@@ -2,12 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>원테스트 - 각 종 테스트 및 여러 유용한 기능 모음 플렛폼</title>
-<link>https://ttfcl.github.io/payback/</link>
+<link>https://paybacktest.kro.kr</link>
 <description>원테스트 - 각 종 테스트 및 여러 유용한 기능 모음 플렛폼</description>
 <item>
 <title>mbti 테스트</title>
-<link>https://ttfcl.github.io/payback/mbti/index.html</link>
-<guid>https://ttfcl.github.io/payback/mbti/index.html</guid>
+<link>https://paybacktest.kro.kr</link>
+<guid>https://paybacktest.kro.kr</guid>
 <pubDate>Sat, 22 jul 2023 21:20:00 KST</pubDate>
 <description>성격유형 검사로 약 20개의 질문을 통해 성격유형을 분류하고 어느 성격과 잘 맞는지에 대한 간단한 설명을 확인할 수 있습니다.</description>
 </item>
