@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.onetest.pe.kr/sitemap.xml
+Rss: https://www.onetest.pe.kr/rss
