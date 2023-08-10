@@ -166,3 +166,34 @@
   width: 100%;
   max-width: 400px;
 }
+
+
+.contactBox {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.contactBoxContent {
+  width: 80%;
+  max-width: 300px;
+  padding: 20px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 2rem;
+}
+@media (max-width: 1200px) {
+  .contactBoxContent {
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+}
