@@ -1,3 +1,7 @@
+
+* {
+  word-break: keep-all;
+}
 .container {
   max-width: 960px;
 }
