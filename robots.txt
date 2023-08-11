@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.onetest.pe.kr/sitemap.xml
-Rss: https://www.onetest.pe.kr/rss
+Sitemap: https://paybacktest.kro.kr/sitemap.xml
+Rss: https://paybacktest.kro.kr/rss
