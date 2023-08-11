@@ -5,7 +5,11 @@
 .container {
   max-width: 960px;
 }
-
+@font-face {
+  font-family: "gFont";
+  src: url("font/Pretendard-Medium.ttf") format('truetype');
+  font-display: swap;
+}
 .icon-link > .bi {
   width: .75em;
   height: .75em;
@@ -164,7 +168,7 @@
 }
 .img1 {
   width: 100%;
-  max-width: 400px;
+  max-width: 800px;
 }
 
 
@@ -196,4 +200,74 @@
       margin-top: 10px;
       margin-bottom: 10px;
   }
+}
+
+.boxlight {
+  box-shadow: inset 0px -0.5em 0 0 rgba(204, 208, 244, 1);
+}
+
+.section1 {
+  background-color: #1aabdf;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section1 > h2 {
+  color: white;
+  text-align: center;
+  font-family: 'gfont';
+  margin-bottom: 20px;
+}
+
+main {
+  background-image: url(image/bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main_service_icon {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.5);  
+}
+.mainText {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.icon {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 100%;
+}
+.icon_card {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  box-sizing: border-box;
+  border: 0;
+  padding: 0;
+  margin: 50px 20px;
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.icon_card:hover {
+  background-color: rgba(0, 0, 0, 0.055);
+}
+.icon_title {
+  margin-top: 20px;
+  font-size: 32px;
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+}
+.icon_text {
+  font-size: 18px;
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 2px;
+  text-align: center;
 }
