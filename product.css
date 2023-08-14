@@ -237,8 +237,8 @@
 }
 
 main {
-  background-image: url(image/bg.png);
-  background-position: center;
+  background-image: url(image/bg2.png);
+  background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
 }
