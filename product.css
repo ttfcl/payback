@@ -169,6 +169,12 @@
 .img1 {
   width: 100%;
   max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.section1Box {
+  background-color: #b0e0fc;
 }
 
 
